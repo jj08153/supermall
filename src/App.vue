@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <h2>草死潘海丹</h2>
+  <h2>草死潘海丹 操到潮吹喷水</h2>
 </template>
 
 <script>
